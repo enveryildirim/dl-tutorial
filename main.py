@@ -1,0 +1,6 @@
+VERSION = "1.8"
+API_PORT = 5003
+SECOND = 10
+CHECK_API_URL = f"http://127.0.0.1:{API_PORT}"
+TITLE = "Aktarım App"
+MAX_LOGIN_TRY_COUNT = 5
